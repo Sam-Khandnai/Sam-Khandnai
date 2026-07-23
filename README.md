@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="banner_resized.png?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Deep+Learning+Developer;Computer+Vision+%7C+NLP;TensorFlow+%7C+Python+Developer" />
+<img src="banner_ resized.png?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Deep+Learning+Developer;Computer+Vision+%7C+NLP;TensorFlow+%7C+Python+Developer" />
 
 <br>
 
