@@ -19,18 +19,13 @@
 
 # 👾 About Me
 
-I’m an AI/ML Engineer with a strong focus on building practical, scalable intelligent systems.
+I'm an AI/ML Engineer who enjoys building intelligent systems that actually work in the real world — not just in notebooks.
 
-My experience includes working with:
+Over time, I've developed hands-on experience across the ML stack: from designing and training models with TensorFlow and Keras, to working with modern LLMs and Vision-Language Models, to building AI agents with tool-calling capabilities that can reason and act autonomously.
 
-- 🤖 Machine Learning and Deep Learning
-- 🧠 TensorFlow and Keras
-- 🗣 Large Language Models (LLMs)
-- 👁 Vision-Language Models (VLMs)
-- 🔧 AI Agents and tool-calling workflows
+What drives me isn't just the technical challenge — it's the gap between a promising prototype and something genuinely production-ready. I care about writing systems that are maintainable, well-structured, and built to last.
 
-I enjoy turning ideas, research, and prototypes into reliable software systems.  
-My goal is to build AI products that are not only technically strong, but also useful, maintainable, and production-ready.
+If you're here to explore my work, I hope you find something useful, interesting, or worth building on.
 
 ---
 
