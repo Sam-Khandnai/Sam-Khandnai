@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="banner_ resized.png?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Deep+Learning+Developer;Computer+Vision+%7C+NLP;TensorFlow+%7C+Python+Developer" />
+<img src="banner_ resized.png?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;LLM+%7C+VLM+%7C+Agent+Developer;TensorFlow+%7C+Keras+%7C+Python" />
 
 <br>
 
@@ -19,49 +19,18 @@
 
 # 💫 About Me
 
-Machine Learning Engineer passionate about building intelligent systems using Python, TensorFlow, and Keras.
+I’m an AI/ML Engineer with a strong focus on building practical, scalable intelligent systems.
 
-I specialize in:
+My experience includes working with:
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- 🎯 Recommendation Systems
+- 🤖 Machine Learning and Deep Learning
+- 🧠 TensorFlow and Keras
+- 🗣 Large Language Models (LLMs)
+- 👁 Vision-Language Models (VLMs)
+- 🔧 AI Agents and tool-calling workflows
 
-I enjoy transforming research papers into practical AI applications and continuously improving my software engineering skills.
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 MRI Brain Tumor Classification
-
-Deep Learning model for MRI image classification using TensorFlow/Keras.
-
----
-
-## 🔐 Captcha Detection
-
-CRNN + CTC based OCR system for solving distorted captchas.
-
----
-
-## 🎬 Recommendation System
-
-Movie recommendation engine using Machine Learning techniques.
-
----
-
-## 🌱 Plant Disease Diagnosis
-
-Computer Vision model for automatic plant disease detection.
-
----
-
-## ❓ Visual Question Answering (VQA)
-
-Multimodal Deep Learning model combining image understanding with natural language.
+I enjoy turning ideas, research, and prototypes into reliable software systems.  
+My goal is to build AI products that are not only technically strong, but also useful, maintainable, and production-ready.
 
 ---
 
@@ -99,27 +68,7 @@ Multimodal Deep Learning model combining image understanding with natural langua
 - Git
 - GitHub
 - Jupyter Notebook
-
----
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
-</p>
+- Linux
 
 ---
 
@@ -133,6 +82,14 @@ Multimodal Deep Learning model combining image understanding with natural langua
 
 <a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
