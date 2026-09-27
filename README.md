@@ -200,11 +200,11 @@ Especially in projects related to:
 
 <p>
 
-<a href="https://github.com/SamKhandani">
+<a href="https://github.com/Sam-Khandnai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/sam-khandani-022520353">
+<a href="https://www.linkedin.com/in/samkhandani">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
